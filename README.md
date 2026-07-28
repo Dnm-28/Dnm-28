@@ -1,6 +1,6 @@
 # 👋 Hola, soy Doris Navas
 
-**Software & Data Developer** apasionada por construir aplicaciones Full-Stack y transformar datos en soluciones útiles para los negocios.
+**Software Developer** apasionada por construir aplicaciones Full-Stack y transformar datos en soluciones útiles para los negocios.
 
 ---
 
@@ -52,4 +52,4 @@ Estudiante avanzada de **Informática Empresarial en la Universidad de Costa Ric
 
 ---
 
-⭐ *"Building bridges between software engineering and data science."*
+⭐ *"Transformando conocimiento en soluciones que generan impacto."*
