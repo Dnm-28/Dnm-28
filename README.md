@@ -33,7 +33,7 @@ Estudiante avanzada de **Informática Empresarial en la Universidad de Costa Ric
 ---
 
 ## 🎓 Educación
-- Bachillerato en Informática Empresarial | UCR (2020 - Presente)  
+- Bachillerato en Informática Empresarial | UCR (2020 - 2026)  
 - Técnico en Inteligencia Artificial para los Negocios (2024 - 2025)  
 - Certificación en Redes Bilingüe | CTP Siquirres  
 
